@@ -1,2 +1,2 @@
 # FinalYearProject
-Image Analysis for Mapping of Traffic Density
+Mapping of Traffic Density
